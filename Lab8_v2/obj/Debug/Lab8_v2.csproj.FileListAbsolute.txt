@@ -1,0 +1,10 @@
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\bin\Debug\Lab8_v2.exe.config
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\bin\Debug\Lab8_v2.exe
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\bin\Debug\Lab8_v2.pdb
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.csprojResolveAssemblyReference.cache
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.Properties.Resources.resources
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.csproj.GenerateResource.Cache
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.exe
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.pdb
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.ModalSlide.resources
+c:\users\lizke\documents\visual studio 2015\Projects\Lab8_v2\Lab8_v2\obj\Debug\Lab8_v2.Form1.resources
